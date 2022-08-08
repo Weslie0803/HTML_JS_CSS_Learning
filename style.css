@@ -1,0 +1,19 @@
+html {
+    background-color: aqua;
+}
+
+body {
+    background-color: azure;
+    border: 10pt;
+    margin: 40pt;
+    padding: 5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* h2 {
+    border: 10pt;
+    margin: 20pt;
+} */
